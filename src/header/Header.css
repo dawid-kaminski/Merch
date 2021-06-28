@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "Sharp-Sans";
+  src:
+    local("Bold")
+    url("../assets/SharpSans/Sharp-Sans-No1-Bold.woff");
+}
+
+@font-face {
+  font-family: "Sharp-Sans";
+  src: 
+  local("Extrabold")
+  url("../assets/SharpSans/Sharp-Sans-No1-Extrabold.woff");
+}
+
+@font-face {
+  font-family: "Sharp-Sans";
+  src: 
+  local("Light")
+  url("../assets/SharpSans/Sharp-Sans-No1-Light.woff");
+}
+
+@font-face {
+  font-family: "Sharp-Sans";
+  src: 
+  local("Medium")
+  url("../assets/SharpSans/Sharp-Sans-No1-Medium.woff");
+}
+
+button {
+  border: none;
+  background-color: inherit;
+}
+
+.header {
+  height: 15%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.header__img img {
+  width: 150px;
+  height: 45px;
+}
+
+.header__img {
+  height: 100%;
+  width: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* flex-shrink: 3; */
+}
+
+.header__options {
+  height: 100%;
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.header__step--button button {
+  font-size: 33px;
+  font-weight: normal;
+  font-family: "Light";
+  color: #cccccc;
+  cursor: pointer;
+}
+
+.header__step--button button:hover {
+  color: black;
+}

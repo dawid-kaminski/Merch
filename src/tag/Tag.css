@@ -1,0 +1,6 @@
+.article__tag {
+  height: 20%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}

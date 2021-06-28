@@ -1,0 +1,127 @@
+@font-face {
+  font-family: "Sharp-Sans";
+  src:
+    local("Bold")
+    url("../assets/SharpSans/Sharp-Sans-No1-Bold.woff");
+}
+
+@font-face {
+  font-family: "Sharp-Sans";
+  src: 
+  local("Extrabold")
+  url("../assets/SharpSans/Sharp-Sans-No1-Extrabold.woff");
+}
+
+@font-face {
+  font-family: "Sharp-Sans";
+  src: 
+  local("Light")
+  url("../assets/SharpSans/Sharp-Sans-No1-Light.woff");
+}
+
+@font-face {
+  font-family: "Sharp-Sans";
+  src: 
+  local("Medium")
+  url("../assets/SharpSans/Sharp-Sans-No1-Medium.woff");
+}
+
+input {
+  border: none;
+  background-color: inherit;
+  outline: none;
+  width: 100%;
+  height: 50%;
+  font-size: 100px;
+}
+
+::placeholder {
+  color: #cccccc;
+}
+
+input:active {
+  border: none;
+  background-color: inherit;
+  outline: none;
+}
+
+.article__positioning {
+  height: 85%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.article {
+  height: 100%;
+  width: 95%;
+  display: flex;
+  flex-direction: row;
+}
+
+.article__left {
+  height: 100%;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+}
+
+.article__user-input {
+  height: 50%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.article__text-input {
+  height: 100%;
+  width: 80%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+
+.article__buttons {
+  height: 80%;
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.article__add--button {
+  height: 50%;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+
+.article__generate--button {
+  height: 50%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.btn-primary {
+  height: 25%;
+  width: 60%;
+  border: 2px solid #0aa7f0;
+  border-radius: 10px;
+  font-size: larger;
+  cursor: pointer;
+  border-bottom-width: 8px;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.btn-primary:active {
+  border-bottom-width: 4px;
+}
+
+.article__text-hint {
+  height: 30%;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  font-family: "Sharp-sans", "Light";
+}
