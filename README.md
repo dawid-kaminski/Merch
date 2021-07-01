@@ -54,5 +54,5 @@
 
 ### Acknowledgments
 
-#### Book Bazar Project is my fourth repository in which I have recreated a small website for training purposes. I wanted to advance my skills as a React Developer and create a something I haven't tried before. I have designed a website which resembles an online shop where the user can create their own tshirt with personalized tags.
+#### Merch Project is my fourth repository in which I have recreated a small website for training purposes. I wanted to advance my skills as a React Developer and create a something I haven't tried before. I have designed a website which resembles an online shop where the user can create their own tshirt with personalized tags.
 &nbsp;
