@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Merch
+&nbsp;
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Table of contents
+1. [What is this repository about](#introduction)
+2. [Tools and external libraries used for the project](#tools)
+3. [Presentation of the project](#presentation)
+4. [How to view the project](#installation)
+5. [Contact](#Contact)
+6. [License](#License)
+7. [Acknowledgments](#Acknowledgments)
+&nbsp;
+---
+<a name="introduction"></a>
+### What is this repository about
 
-## Available Scripts
+#### Merch is a small project where I created a site where you can add your own tags, then you can proceed to the next site where the tags added are visible on the right site of the screen as an array of objects.
+&nbsp;
+---
+<a name="tools"></a>
+### Tools and external libraries used for the project
+ 1. HTML 5
+ 2. CSS 3
+ 3. React
+ 4. React Hooks
+ 5. React Router
+ 6. [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+&nbsp;
+---
+<a name="images"></a>
+### Presentation of the Project
+&nbsp;
+![](presentation.gif)
+&nbsp;
 
-In the project directory, you can run:
+<a name="installation"></a>
+### How to view the project
 
-### `npm start`
+#### In order to see the project simply clone the repository and run the index.html file in your browser.
+&nbsp;
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Contact
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### You can contact me via my personal Email: dawidk65@gmail.com
+&nbsp;
+---
 
-### `npm test`
+### License
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### This project is licensed under the MIT License
+&nbsp;
+---
 
-### `npm run build`
+### Acknowledgments
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+#### Book Bazar Project is my fourth repository in which I have recreated a small website for training purposes. I wanted to advance my skills as a React Developer and create a something I haven't tried before. I have designed a website which resembles an online shop where the user can create their own tshirt with personalized tags.
+&nbsp;
